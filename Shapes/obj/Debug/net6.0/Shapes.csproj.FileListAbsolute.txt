@@ -1,0 +1,15 @@
+S:\dotnet\Shapes\Shapes\bin\Debug\net6.0\Shapes.exe
+S:\dotnet\Shapes\Shapes\bin\Debug\net6.0\Shapes.deps.json
+S:\dotnet\Shapes\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+S:\dotnet\Shapes\Shapes\bin\Debug\net6.0\Shapes.dll
+S:\dotnet\Shapes\Shapes\bin\Debug\net6.0\Shapes.pdb
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\Shapes.dll
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\Shapes.pdb
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+S:\dotnet\Shapes\Shapes\obj\Debug\net6.0\ref\Shapes.dll
